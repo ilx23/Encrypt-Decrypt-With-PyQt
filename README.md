@@ -22,7 +22,7 @@ Welcome to the Encrypt Decrypt With PyQt5 project! This project provides a simpl
 > ```git clone https://github.com/ilx23/Encrypt-Decrypt-With-PyQt5.git```
 
 2. **Install Dependencies:** Ensure you have Python installed on your machine. Additionally, you need to install PyQt5 and cryptography libraries. You can install them using pip:
-> ```pip install PyQt5 cryptography```
+> ```pip install PyQt5```
 
 3. **Run the Application:** Navigate to the project directory and run the following command:
 > ```python app.py```
